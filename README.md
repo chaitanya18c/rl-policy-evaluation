@@ -239,27 +239,26 @@ else:
 ## OUTPUT :
 
 ### Policy-1 : 
-
-<img src="https://github.com/user-attachments/assets/81640a2e-62d3-4d57-8c43-7df26c3de6f5" width=50%>
+<img src="https://github.com/user-attachments/assets/c1547ed1-4e12-4ab5-9712-33759e581050" width=50%>
 
 ### Policy-1 State-value function :
-<img src="https://github.com/user-attachments/assets/623f8b29-02f2-45ba-9461-fc582094830d" width=50%>
+<img src="https://github.com/user-attachments/assets/cd4665c1-ecc0-44b3-acfd-4dcfd1b1b617" width=50%>
 
-### the probability of success and the mean return of the first policy : 
+### The Probability of success and the mean return of the first policy : 
 
-<img src="https://github.com/user-attachments/assets/d99f4a04-edf0-4d06-b3e2-18f8a705d835" width=50%>
+<img src="https://github.com/user-attachments/assets/ae4e54ab-f838-4a39-83f5-da194f7561fb" width=50%>
 
 ### Policy-2 :
-<img src="https://github.com/user-attachments/assets/7282da02-63eb-4854-b9e5-bbf6f2263c44" width=50%>
+<img src="https://github.com/user-attachments/assets/8c7ee7f9-46cf-4b82-9014-8566ee1e0e33" width=50%>
 
 ### Policy-2 State-value function :
-<img src="https://github.com/user-attachments/assets/70da3d5f-88f4-42a1-999f-5be4b8a29caf" width=50%>
+<img src="https://github.com/user-attachments/assets/6c49d2b8-05e4-4c3a-a6d0-47afe15ca089" width=50%>
 
-### the probability of success and the mean return of the second policy :
-<img src="https://github.com/user-attachments/assets/0240f01a-65e4-4b5f-8bc0-ccc5f136a0f1" width=50%>
+### The Probability of success and the mean return of the second policy :
+<img src="https://github.com/user-attachments/assets/803430a7-804d-4b00-9815-eab3323612de" width=50%>
 
 ### Comparing the two policies:
-<img src="https://github.com/user-attachments/assets/1cccaa4b-3852-4da3-b3fe-ccc789f638a7" width=50%>
+<img src="https://github.com/user-attachments/assets/6d66e80a-1ff4-4d0f-ba87-e931846146a9" width=50%>
 
 ## RESULT :
 
